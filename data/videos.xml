@@ -1,0 +1,487 @@
+<xml>
+  <viddb>
+    <movies>19</movies>
+    <movie>
+      <origtitle>The Amazing Spider-Man</origtitle>
+      <year>2012</year>
+      <genre>All,Action,Adventure,Fantasy</genre>
+      <mpaa>Rated PG-13</mpaa>
+      <director>Marc Webb</director>
+      <actors>Andrew Garfield, Emma Stone, Rhys Ifans, Irrfan Khan</actors>
+      <description>Peter Parker finds a clue that might help him understand why his parents disappeared when he was young. His path puts him on a collision course with Dr. Curt Connors, his father's former partner.</description>
+      <path>Z:\Media\Videos\The Amazing Spider-Man.mp4</path>
+      <length>136</length>
+      <videocodec>mp4</videocodec>
+      <poster>images/The Amazing Spider-Man.jpg</poster>
+    </movie>
+
+    <movie>
+      <origtitle>The Avengers</origtitle>
+      <year>2012</year>
+      <genre>All,Action,Sci-Fi</genre>
+      <mpaa>Rated PG-13</mpaa>
+      <director>Joss Whedon</director>
+      <actors>Robert Downey Jr., Chris Evans, Scarlett Johansson, Jeremy Renner</actors>
+      <description>Nick Fury of S.H.I.E.L.D. brings together a team of super humans to form The Avengers to help save the Earth from Loki and his army.</description>
+      <path>Z:\Media\Videos\The Avengers.m4v</path>
+      <length>143</length>
+      <videocodec>AVC</videocodec>
+      <poster>images/Avengers.jpg</poster>
+    </movie>
+    <movie>
+      <origtitle>Brave</origtitle>
+      <year>2012</year>
+      <genre>All,Animation,Action,Adventure,Comedy,Family,Fantasy</genre>
+      <mpaa>Rated PG</mpaa>
+      <director>Mark Andrews, Brenda Chapman</director>
+      <actors>Kelly Macdonald, Billy Connolly, Emma Thompson, Julie Walters</actors>
+      <description>Determined to make her own path in life, Princess Merida defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.</description>
+      <path>Z:\Media\Videos\Brave.m4v</path>
+      <length>93</length>
+      <videocodec>mp4</videocodec>
+      <poster>images/Brave.jpg</poster>
+    </movie>
+
+    <!--TODO: movie>
+      <origtitle>Cars</origtitle>
+      <year>2006</year>
+      <genre>All,Animation,Adventure,Comedy,Family,Sport</genre>
+      <mpaa>Rated G</mpaa>
+      <director>John Lasseter, Joe Ranft</director>
+      <actors>Owen Wilson, Bonnie Hunt, Paul Newman, Larry the Cable Guy</actors>
+      <description>A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.</description>
+      <path>Z:\Media\Videos\Cars.m4v</path>
+      <length>117</length>
+      <videocodec>mp4</videocodec>
+      <poster>images/cars.jpg</poster>
+    </movie-->
+
+    <movie>
+      <origtitle>Cloudy with a Chance of Meatballs</origtitle>
+      <year>2009</year>
+      <genre>All, Animation, Comedy, Family, Fantasy</genre>
+      <mpaa>Rated PG</mpaa>
+      <director>Phil Lord, Chris Miller</director>
+      <actors>Anna Faris, Bill Hader, Bruce Campbell, James Caan</actors>
+      <description>The most delicious event since macaroni met cheese. Inspired by the beloved children's book, the film focuses on a town where food falls from the sky like rain.</description>
+      <path>Z:\Media\Videos\Cloudy with a Chance of Meatballs.m4v</path>
+      <length>90</length>
+      <videocodec>mp4</videocodec>
+      <poster>images/Cloudy with a Chance of Meatballs.jpg</poster>
+    </movie>
+
+    <movie>
+      <origtitle>The Dark Knight Rises</origtitle>
+      <year>2012</year>
+      <genre>All,Action,Crime,Thriller</genre>
+      <mpaa>Rated PG-13</mpaa>
+      <director>Christopher Nolan</director>
+      <actors>Christian Bale, Tom Hardy, Anne Hathaway, Gary Oldman</actors>
+      <description>Eight years on, a new terrorist leader, Bane, overwhelms Gotham's finest, and the Dark Knight resurfaces to protect a city that has branded him an enemy.</description>
+      <path>Z:\Media\Videos\The Dark Knight Rises.m4v</path>
+      <length>165</length>
+      <videocodec>mp4</videocodec>
+      <poster>images/The Dark Knight Rises.jpg</poster>
+    </movie>
+
+   <movie>
+      <origtitle>Despicable Me</origtitle>
+      <year>2010</year>
+      <genre>All,Animation,Comedy,Crime,Family</genre>
+      <mpaa>Rated G</mpaa>
+      <director>Pierre Coffin, Chris Renaud</director>
+      <actors>Steve Carell, Jason Segel, Russell Brand</actors>
+      <description>When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better.</description>
+      <path>Z:\Media\Videos\Despicable Me.mp4</path>
+      <length>95</length>
+      <videocodec>mp4</videocodec>
+      <poster>images/Despicable Me.jpg</poster>
+   </movie>
+
+    <movie>
+      <origtitle>Enchanted</origtitle>
+      <year>2007</year>
+      <genre>All,Comedy,Family,Fantasy,Musical,Romance</genre>
+      <mpaa>Rated PG</mpaa>
+      <director>Kevin Lima</director>
+      <actors>Amy Adams, Susan Sarandon, James Marsden, Patrick Dempsey</actors>
+      <description>A classic Disney fairytale collides with modern-day New York City in a story about a fairytale princess who is sent to our world by an evil queen. Soon after her arrival, Princess Giselle begins to change her views on life and love after meeting a handsome lawyer. Can a storybook view of romance survive in the real world?</description>
+      <path>Z:\Media\Videos\Enchanted.m4v</path>
+      <length>107</length>
+      <videocodec>mp4</videocodec>
+      <poster>images/Enchanted.jpg</poster>
+    </movie>
+
+    <!--TODO: movie>
+      <origtitle>Finding Nemo</origtitle>
+      <year>2003</year>
+      <genre>All,Animation,Adventure,Comedy,Family</genre>
+      <mpaa>Rated G</mpaa>
+      <director>Andrew Stanton, Lee Unkrich</director>
+      <actors>Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe</actors>
+      <description>After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.</description>
+      <path>ext1:\videos\Finding Nemo.m4v</path>
+      <length>100</length>
+      <videocodec>m4v</videocodec>
+      <poster>images/Finding Nemo.jpg</poster>
+    </movie-->
+
+    <movie>
+      <title>Friends With Kids</title>
+      <origtitle></origtitle>
+      <aka></aka>
+      <year>2012</year>
+      <genre>All,Comedy</genre>
+      <country></country>
+      <studio></studio>
+      <release></release>
+      <mpaa>R</mpaa>
+      <tags></tags>
+      <director></director>
+      <producer></producer>
+      <scenario></scenario>
+      <music></music>
+      <actors></actors>
+      <description>Two best friends decide to have a child together while keeping their relationship platonic, so they can avoid the toll kids can take on romantic relationships.</description>
+      <comment></comment>
+      <tagline></tagline>
+      <url>http://www.imdb.com/title/tt1720616/</url>
+      <imdbrating>6.2</imdbrating>
+      <rating>0</rating>
+      <orating>0</orating>
+      <dateadded>8/10/2012 9:26:35 PM</dateadded>
+      <path>Z:\Media\Videos\Friends With Kids.m4v</path>
+      <type></type>
+      <rip></rip>
+      <length>107</length>
+      <langs></langs>
+      <subs></subs>
+      <translation></translation>
+      <resolution>720x400</resolution>
+      <framerate>23.97</framerate>
+      <videocodec>AVC</videocodec>
+      <videobitrate>1274</videobitrate>
+      <audiocodec></audiocodec>
+      <audiobitrate></audiobitrate>
+      <label>GoFlex Home Personal</label>
+      <features></features>
+      <viewed>-1</viewed>
+      <viewdate></viewdate>
+      <wish>0</wish>
+      <bookmark>0</bookmark>
+      <poster>images/friends-with-kids.jpg</poster>
+    </movie>
+
+    <movie>
+      <title>Hangover II, The</title>
+      <origtitle></origtitle>
+      <aka></aka>
+      <year>2011</year>
+      <genre>All,Comedy</genre>
+      <country></country>
+      <studio></studio>
+      <release></release>
+      <mpaa>R</mpaa>
+      <tags></tags>
+      <director></director>
+      <producer></producer>
+      <scenario></scenario>
+      <music></music>
+      <actors></actors>
+      <description>Two years after the bachelor party in Las Vegas, Phil, Stu, Alan, and Doug jet to Thailand for Stu's wedding. Stu's plan for a subdued pre-wedding brunch, however, goes seriously awry.</description>
+      <comment></comment>
+      <tagline></tagline>
+      <url>http://www.imdb.com/title/tt1411697/</url>
+      <imdbrating>6.5</imdbrating>
+      <rating>0</rating>
+      <orating>0</orating>
+      <dateadded>8/8/2012 7:51:35 PM</dateadded>
+      <path>Z:\Media\Videos\The Hangover II.m4v</path>
+      <type></type>
+      <rip></rip>
+      <length>102</length>
+      <size>1117</size>
+      <langs></langs>
+      <subs></subs>
+      <translation></translation>
+      <resolution>720x304</resolution>
+      <framerate>23.97</framerate>
+      <videocodec>AVC</videocodec>
+      <videobitrate>978</videobitrate>
+      <audiocodec></audiocodec>
+      <audiobitrate></audiobitrate>
+      <label>GoFlex Home Personal</label>
+      <features></features>
+      <viewed>-1</viewed>
+      <viewdate></viewdate>
+      <wish>0</wish>
+      <bookmark>0</bookmark>
+      <poster>images/hangover2.jpg</poster>
+    </movie>
+
+    <movie>
+      <title>Lilo &amp; Stitch</title>
+      <origtitle></origtitle>
+      <aka></aka>
+      <year>2002</year>
+      <genre>All,Animation,Adventure,Family,Sci-Fi</genre>
+      <country></country>
+      <studio></studio>
+      <release></release>
+      <mpaa>PG</mpaa>
+      <tags></tags>
+      <director></director>
+      <producer></producer>
+      <scenario></scenario>
+      <music></music>
+      <actors></actors>
+      <description>A Hawaiian girl adopts an unusual pet who is actually an notorious extra-terrestrial fugitive from the law.</description>
+      <comment></comment>
+      <tagline>Meet Stitch. This Summer, He's Coming to OUR Planet.</tagline>
+      <url>http://www.imdb.com/title/tt0275847/</url>
+      <imdbrating>7.0</imdbrating>
+      <rating>0</rating>
+      <orating>0</orating>
+      <dateadded>8/11/2012 9:26:35 AM</dateadded>
+      <path>Z:\Media\Videos\Lilo &amp; Stitch.m4v</path>
+      <type></type>
+      <rip></rip>
+      <length>85</length>
+      <langs></langs>
+      <subs></subs>
+      <translation></translation>
+      <resolution>704x416</resolution>
+      <framerate>23.97</framerate>
+      <videocodec>AVC</videocodec>
+      <videobitrate>1400</videobitrate>
+      <audiocodec></audiocodec>
+      <audiobitrate></audiobitrate>
+      <label>GoFlex Home Personal</label>
+      <features></features>
+      <viewed>-1</viewed>
+      <viewdate></viewdate>
+      <wish>0</wish>
+      <bookmark>0</bookmark>
+      <poster>images/lilo-and-stitch.jpg</poster>
+    </movie>
+
+    <movie>
+      <origtitle>Monsters, Inc.</origtitle>
+      <year>2001</year>
+      <genre>All,Animation, Adventure, Comedy, Family, Fantasy</genre>
+      <mpaa>G</mpaa>
+      <director>Pete Docter, David Silverman</director>
+      <actors>Billy Crystal, John Goodman, Mary Gibbs, Steve Buscemi</actors>
+      <description>Monsters generate their city's power by scaring children, but they are terribly afraid themselves of being contaminated by children, so when one enters Monstropolis, top scarer Sulley finds his world disrupted.</description>
+      <path>Z:\Media\Videos\Monsters Inc.mp4</path>
+      <length>92</length>
+      <videocodec>mp4</videocodec>
+      <poster>images/Monsters Inc.jpg</poster>
+    </movie>
+
+    <movie>
+      <origtitle>Much Ado About Nothing</origtitle>
+      <year>2012</year>
+      <genre>All, Comedy, Drama, Romance</genre>
+      <mpaa>PG-13</mpaa>
+      <director>Joss Whedon</director>
+      <actors>Alexis Denisof, Amy Acker, Nathan Fillion</actors>
+      <description>A modern retelling of Shakespeare's classic comedy about two pairs of lovers with different takes on romance and a way with words.</description>
+      <path>Z:\Media\Videos\Much Ado About Nothing.mp4</path>
+      <length>109</length>
+      <videocodec>mp4</videocodec>
+      <poster>images/Much Ado About Nothing.jpg</poster>
+    </movie>
+
+    <movie>
+      <origtitle>Ocean's Eleven</origtitle>
+      <year>2001</year>
+      <genre>All,Crime,Thriller</genre>
+      <mpaa>PG-13</mpaa>
+      <director>Steven Soderbergh</director>
+      <actors>George Clooney, Brad Pitt, Julia Roberts, Matt Damon</actors>
+      <description>Danny Ocean and his eleven accomplices plan to rob three Las Vegas casinos simultaneously.</description>
+      <path>Z:\Media\Videos\Ocean's Eleven(2001).m4v</path>
+      <length>116</length>
+      <videocodec>m4v</videocodec>
+      <poster>images/Ocean's Eleven(2001).jpg</poster>
+    </movie>
+
+   <movie>
+      <origtitle>Secret of the Wings</origtitle>
+      <year>2012</year>
+      <genre>All,Animation,Adventure,Family,Fantasy</genre>
+      <mpaa>Rated G</mpaa>
+      <director>Roberts Gannaway, Peggy Holmes</director>
+      <actors>Timothy Dalton, Lucy Hale, Megan Hilty, Anjelica Huston</actors>
+      <description>Tinker Bell meets Periwinkle and ventures into the winter woods with her and Tinker Bell's other friends to find the secret of fairy wings.</description>
+      <path>Z:\Media\Videos\Secret of the Wings.m4v</path>
+      <length>92</length>
+      <videocodec>m4v</videocodec>
+      <poster>images/Secret of the Wings.jpg</poster>
+   </movie>
+
+    <!-- TODO: movie>
+      <origtitle>Sherlock Holmes</origtitle>
+      <year>2009</year>
+      <genre>All,Action,Adventure,Crime,Mystery,Thriller</genre>
+      <mpaa>Rated PG-13</mpaa>
+      <director>Guy Ritchie</director>
+      <actors>Robert Downey Jr., Jude Law, Rachel McAdams, Mark Strong</actors>
+      <description>Detective Sherlock Holmes and his stalwart partner Watson engage in a battle of wits and brawn with a nemesis whose plot is a threat to all of England.</description>
+      <path>ext1:\videos\Sherlock Holmes.m4v</path>
+      <length>128</length>
+      <videocodec>m4v</videocodec>
+      <poster>images/Sherlock Holmes.jpg</poster>
+    </movie-->
+
+   <movie>
+      <origtitle>Star Wars</origtitle>
+      <year>1977</year>
+      <genre>All,Action,Adventure,Fantasy,Sci-Fi</genre>
+      <mpaa>Rated PG</mpaa>
+      <director>George Lucas</director>
+      <actors>Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness</actors>
+      <description>Luke Skywalker, a spirited farm boy, joins rebel forces to save Princess Leia from the evil Darth Vader, and the galaxy from the Empire's planet-destroying Death Star.</description>
+      <path>Z:\Media\Videos\Star Wars.m4v</path>
+      <length>121</length>
+      <videocodec>mp4</videocodec>
+      <poster>images/Star Wars.jpg</poster>
+    </movie>
+    <movie>
+      <origtitle>Star Wars: Episode V - The Empire Strikes Back</origtitle>
+      <year>1980</year>
+      <genre>All,Action,Adventure,Sci-Fi</genre>
+      <mpaa>Rated PG</mpaa>
+      <director>Irvin Kershner</director>
+      <actors>Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams</actors>
+      <description>As Luke trains with Master Yoda to become a Jedi Knight, his friends evade the Imperial fleet under the command of Darth Vader who is obsessed with turning Skywalker to the Dark Side of the Force.</description>
+      <path>Z:\Media\Videos\The Empire Strikes Back.m4v</path>
+      <length>127</length>
+      <videocodec>mp4</videocodec>
+      <poster>images/the empire strikes back.jpg</poster>
+    </movie>
+    <movie>
+      <title>Tangled</title>
+      <origtitle></origtitle>
+      <aka></aka>
+      <year>2010</year>
+      <genre>All,Animation,Comedy,Family,Fantasy,Musical,Romance</genre>
+      <country></country>
+      <studio>Disney</studio>
+      <release></release>
+      <mpaa>PG</mpaa>
+      <tags></tags>
+      <director></director>
+      <producer></producer>
+      <scenario></scenario>
+      <music></music>
+      <actors>Mandy Moore, Zachary Levi, Donna Murphy</actors>
+      <description>The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is.</description>
+      <comment></comment>
+      <tagline></tagline>
+      <url>http://www.imdb.com/title/tt0398286/</url>
+      <imdbrating>0</imdbrating>
+      <rating>0</rating>
+      <orating>0</orating>
+      <dateadded>8/8/2012 7:50:08 PM</dateadded>
+      <path>Z:\Media\Videos\Tangled.m4v</path>
+      <type></type>
+      <rip></rip>
+      <length>101</length>
+      <size>1183</size>
+      <langs></langs>
+      <subs></subs>
+      <translation></translation>
+      <resolution>720x480</resolution>
+      <framerate>23.95</framerate>
+      <videocodec>AVC</videocodec>
+      <videobitrate>1092</videobitrate>
+      <audiocodec></audiocodec>
+      <audiobitrate></audiobitrate>
+      <label>GoFlex Home Personal</label>
+      <features></features>
+      <viewed>-1</viewed>
+      <viewdate></viewdate>
+      <wish>0</wish>
+      <bookmark>0</bookmark>
+      <poster>images/image2_66_-1x-1.jpg</poster>
+    </movie>
+
+    <movie>
+      <title>Tinker Bell</title>
+      <origtitle></origtitle>
+      <aka></aka>
+      <year>2008</year>
+      <genre>All,Animation,Adventure,Family,Fantasy</genre>
+      <country></country>
+      <studio>Disney</studio>
+      <release></release>
+      <mpaa>G</mpaa>
+      <tags></tags>
+      <director></director>
+      <producer></producer>
+      <scenario></scenario>
+      <music></music>
+      <actors></actors>
+      <description>Enter the magical world of fairies and meet the enchanting creatures of Pixie Hollow, who "nurture nature" and bring about the change of the seasons. Changing the colors of the leaves, moving a sunbeam to melt snow, waking animals from their winter slumber, or giving a patch of sproutlings a sprinkle of water are all within the realm of these seasonal specialists. Tinker Bell thinks her fairy talent as a "tinker" isn't as special or important as the other fairies' talents. But when Tink tries to change who she is, she creates nothing but disaster! With encouragement from her friends Rosetta, Silvermist, Fawn and Iridessa, Tink learns the key to solving her problems lies in her unique tinker abilities and discovers that when she's true to herself, magical things can happen</description>
+      <comment></comment>
+      <tagline></tagline>
+      <url>http://www.imdb.com/title/tt0823671/</url>
+      <imdbrating>0</imdbrating>
+      <rating>0</rating>
+      <orating>0</orating>
+      <dateadded>8/9/2012 10:05:08 PM</dateadded>
+      <path>Z:\Media\Videos\Tinker Bell.m4v</path>
+      <type></type>
+      <rip></rip>
+      <length>77</length>
+      <size></size>
+      <langs></langs>
+      <subs></subs>
+      <translation></translation>
+      <resolution>853x480</resolution>
+      <framerate>23.95</framerate>
+      <videocodec>AVC</videocodec>
+      <videobitrate>1325</videobitrate>
+      <audiocodec></audiocodec>
+      <audiobitrate></audiobitrate>
+      <label>GoFlex Home Personal</label>
+      <features></features>
+      <viewed>-1</viewed>
+      <viewdate></viewdate>
+      <wish>0</wish>
+      <bookmark>0</bookmark>
+      <poster>images/tinkerbell.jpg</poster>
+    </movie>
+
+    <movie>
+      <origtitle>Tinker Bell and the Great Fairy Rescue</origtitle>
+      <year>2010</year>
+      <genre>All,Animation,Adventure,Family,Fantasy</genre>
+      <mpaa>Rated G</mpaa>
+      <director>Bradley Raymond</director>
+      <actors>Lucy Liu, Mae Whitman, Michael Sheen, Kristin Chenoweth</actors>
+      <description>Tinker Bell must team up with a rival fairy to keep their existence a secret from humans.</description>
+      <path>Z:\Media\Videos\Tinker Bell and the Great Fairy Rescue.m4v</path>
+      <length>76</length>
+      <videocodec>m4v</videocodec>
+      <poster>images/Tinker Bell and the Great Fairy Rescue.jpg</poster>
+    </movie>
+
+    <movie>
+      <origtitle>Tinker Bell and the Lost Treasure</origtitle>
+      <year>2009</year>
+      <genre>All,Animation,Adventure,Family,Fantasy</genre>
+      <mpaa>Rated G</mpaa>
+      <director>Klay Hall</director>
+      <actors>Lucy Liu, Mae Whitman, Anjelica Huston, Jesse McCartney</actors>
+      <description>Tinker Bell journey far North of Never Land to patch things up with her friend Terence and restore a Pixie Dust Tree.</description>
+      <path>Z:\Media\Videos\Tinker Bell and the Lost Treasure.m4v</path>
+      <length>81</length>
+      <videocodec>m4v</videocodec>
+      <poster>images/Tinker Bell and the Lost Treasure.jpg</poster>
+    </movie>
+
+  </viddb>
+</xml>
