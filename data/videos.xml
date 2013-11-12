@@ -1,6 +1,6 @@
 <xml>
   <viddb>
-    <movies>19</movies>
+    <movies>21</movies>
     <movie>
       <origtitle>The Amazing Spider-Man</origtitle>
       <year>2012</year>
@@ -96,6 +96,20 @@
       <length>95</length>
       <videocodec>mp4</videocodec>
       <poster>images/Despicable Me.jpg</poster>
+   </movie>
+
+   <movie>
+      <origtitle>Despicable Me 2</origtitle>
+      <year>2013</year>
+      <genre>All,Animation,Comedy,Crime,Family</genre>
+      <mpaa>Rated G</mpaa>
+      <director>Pierre Coffin, Chris Renaud</director>
+      <actors>Steve Carell, Kristen Wiig, Benjamin Bratt</actors>
+      <description>Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.</description>
+      <path>Z:\Media\Videos\Despicable Me 2.mp4</path>
+      <length>98</length>
+      <videocodec>mp4</videocodec>
+      <poster>images/Despicable Me 2.jpg</poster>
    </movie>
 
     <movie>
