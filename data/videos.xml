@@ -1,6 +1,6 @@
 <xml>
   <viddb>
-    <movies>21</movies>
+    <movies>22</movies>
     <movie>
       <origtitle>The Amazing Spider-Man</origtitle>
       <year>2012</year>
@@ -306,6 +306,18 @@
       <videocodec>mp4</videocodec>
       <poster>images/Much Ado About Nothing.jpg</poster>
     </movie>
+
+   <movie>
+      <origtitle>My Little Pony: Princess Twilight Sparkle</origtitle>
+      <year>2013</year>
+      <genre>All,Animation,Adventure,Family,Fantasy</genre>
+      <mpaa>Rated G</mpaa>
+      <description>Princess Twilight sparkle!!! Oh Yeah!</description>
+      <path>Z:\Media\Videos\MLP_s04e01.mp4</path>
+      <length>42</length>
+      <videocodec>mp4</videocodec>
+      <poster>images/mlp_s04e01.jpg</poster>
+   </movie>
 
     <movie>
       <origtitle>Ocean's Eleven</origtitle>
