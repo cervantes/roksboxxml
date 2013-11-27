@@ -1,6 +1,6 @@
 <xml>
   <viddb>
-    <movies>22</movies>
+    <movies>23</movies>
     <movie>
       <origtitle>The Amazing Spider-Man</origtitle>
       <year>2012</year>
@@ -291,6 +291,20 @@
       <length>92</length>
       <videocodec>mp4</videocodec>
       <poster>images/Monsters Inc.jpg</poster>
+    </movie>
+
+    <movie>
+      <origtitle>Monsters University</origtitle>
+      <year>2013</year>
+      <genre>All, Animation, Adventure, Comedy, Family, Fantasy</genre>
+      <mpaa>G</mpaa>
+      <director>Dan Scanlon</director>
+      <actors>Billy Crystal, John Goodman, Steve Buscemi</actors>
+      <description>A look at the relationship between Mike and Sulley during their days at Monsters University -- when they weren't necessarily the best of friends.</description>
+      <path>Z:\Media\Videos\Monsters University.mp4</path>
+      <length>104</length>
+      <videocodec>mp4</videocodec>
+      <poster>images/Monsters University.jpg</poster>
     </movie>
 
     <movie>
