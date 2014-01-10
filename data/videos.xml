@@ -1,6 +1,6 @@
 <xml>
   <viddb>
-    <movies>23</movies>
+    <movies>26</movies>
     <movie>
       <origtitle>The Amazing Spider-Man</origtitle>
       <year>2012</year>
@@ -55,6 +55,21 @@
       <videocodec>mp4</videocodec>
       <poster>images/cars.jpg</poster>
     </movie-->
+
+    <movie>
+      <origtitle>A Charlie Brown Christmas</origtitle>
+      <year>1965</year>
+      <genre>All,Animation,Short,Comedy,Family,Holiday</genre>
+      <mpaa>Rated G</mpaa>
+      <director>Bill Melendez</director>
+      <writer>Charles Schultz</writer>
+      <actors>Ann Altieri, Chris Doran, Sally Dryer</actors>
+      <description>Repelled by the commercialism he sees around him, Charlie Brown tries to find the true meaning of Christmas.</description>
+      <path>Z:\Media\Videos\ACharlieBrownChristmas.mp4</path>
+      <length>25</length>
+      <videocodec>mp4</videocodec>
+      <poster>images/CharlieBrownChristmas.jpg</poster>
+    </movie>
 
     <movie>
       <origtitle>Cloudy with a Chance of Meatballs</origtitle>
@@ -126,7 +141,7 @@
       <poster>images/Enchanted.jpg</poster>
     </movie>
 
-    <!--TODO: movie>
+    <!-- TODO: movie>
       <origtitle>Finding Nemo</origtitle>
       <year>2003</year>
       <genre>All,Animation,Adventure,Comedy,Family</genre>
@@ -184,6 +199,20 @@
       <wish>0</wish>
       <bookmark>0</bookmark>
       <poster>images/friends-with-kids.jpg</poster>
+    </movie>
+
+    <movie>
+      <origtitle>Frozen</origtitle>
+      <year>2013</year>
+      <genre>All,Animation,Adventure,Comedy,Family</genre>
+      <mpaa>Rated PG</mpaa>
+      <director>Chris Buck, Jennifer Lee</director>
+      <actors>Kristen Bell, Josh Gad, Idina Menzel</actors>
+      <description>Fearless optimist Anna teams up with Kristoff in an epic journey, encountering Everest-like conditions, and a hilarious snowman named Olaf in a race to find Anna's sister Elsa, whose icy powers have trapped the kingdom in eternal winter.</description>
+      <path>ext1:\videos\Frozen.mp4</path>
+      <length>102</length>
+      <videocodec>mp4</videocodec>
+      <poster>images/Frozen.jpg</poster>
     </movie>
 
     <movie>
@@ -521,6 +550,20 @@
       <length>81</length>
       <videocodec>m4v</videocodec>
       <poster>images/Tinker Bell and the Lost Treasure.jpg</poster>
+    </movie>
+
+    <movie>
+      <origtitle>Up</origtitle>
+      <year>2009</year>
+      <genre></genre>
+      <mpaa>Rated G</mpaa>
+      <director>Pete Docter, Bob Peterson</director>
+      <actors>Edward Asner, Jordan Nagai, John Ratzenberger</actors>
+      <description>By tying thousands of balloons to his home, 78-year-old Carl sets out to fulfill his lifelong dream to see the wilds of South America. Russell, a wilderness explorer 70 years younger, inadvertently becomes a stowaway.</description>
+      <path>Z:\Media\Videos\Up.mp4</path>
+      <length>96</length>
+      <videocodec>mp4</videocodec>
+      <poster>images/Up.jpg</poster>
     </movie>
 
   </viddb>
